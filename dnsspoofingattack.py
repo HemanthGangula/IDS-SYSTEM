@@ -1,8 +1,7 @@
 #DNS SPOOFING :
 
 '''DNS spoofing involves an attacker providing false DNS information to a DNS resolver or cache.
-Typically, attackers target DNS caches, which store DNS records for faster access and reduced network traffic
-https://chat.openai.com/share/05662138-4085-4632-96d6-24c3764f5ab6'''
+Typically, attackers target DNS caches, which store DNS records for faster access and reduced network traffic'''
 
 //CODE
 import socket
